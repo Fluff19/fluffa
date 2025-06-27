@@ -9,8 +9,6 @@
   },
   "author": "Fluffa",
   "license": "MIT",
-  "dependencies": {
-    "fasthtml": "^1.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
