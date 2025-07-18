@@ -2,7 +2,7 @@
   "name": "fluffa",
   "version": "1.0.0",
   "description": "Html, CSS, Js, app",
-  "main": "index.html",
+  "main": "pages/index.html",
   "scripts": {
     "start": "echo 'Open index.html in your browser'",
     "test": "echo 'No tests specified'"
